@@ -41,14 +41,6 @@ I am a results-driven Software Engineering student based in Prague. Having gradu
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=arizazadli20&show_icons=true&theme=tokyonight" alt="Ariz's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arizazadli20&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Let's Connect
 - 💼 **LinkedIn:** [Ariz Azadli](https://www.linkedin.com/in/ariz-azadli)
 - 📧 **Email:** [arizazadli20@gmail.com](mailto:arizazadli20@gmail.com)
