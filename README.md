@@ -16,24 +16,28 @@ I am a results-driven Software Engineering student based in Prague. Having gradu
 ### 🛠 Tech Stack & Core Skills
 A multi-faceted skill set covering the entire stack, from hardware to the user interface.
 
-#### 🕹 Low-Level, Systems & Embedded
-* ![C](https://img.shields.io/badge/c-%23233956.svg?style=for-the-badge&logo=c&logoColor=white)
-* ![AVR](https://img.shields.io/badge/AVR_Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white) (Microcontrollers & Assembly)
-* Binary Logic (Memory Optimization, Low-level Debugging)
+<br>
 
-#### 🌐 Networking & Data
-* ![Networking](https://img.shields.io/badge/Networking-233956?style=for-the-badge&logo=cisco&logoColor=white) (TCP/IP, Computer Architecture)
-* ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) (Database Systems)
+**🕹 Low-Level, Systems & Embedded**<br>
+![C](https://img.shields.io/badge/C-%23233956.svg?style=for-the-badge&logo=c&logoColor=white)
+![AVR Microcontrollers](https://img.shields.io/badge/AVR_Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Binary Logic](https://img.shields.io/badge/Binary_Logic-000000?style=for-the-badge&logo=andela&logoColor=white)
+![Memory Optimization](https://img.shields.io/badge/Memory_Optimization-4B0082?style=for-the-badge)
 
-#### ⚙ Tools, OS & Infrastructure
-* ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**🌐 Networking & Data**<br>
+![Networking (TCP/IP)](https://img.shields.io/badge/Networking_(TCP/IP)-233956?style=for-the-badge&logo=cisco&logoColor=white)
+![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-02569B?style=for-the-badge)
+![SQL Database](https://img.shields.io/badge/SQL_Database-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 🎨 Concepts & Front-End
-* ![HTML/CSS](https://img.shields.io/badge/html_css-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* Data Structures & Algorithms
-* UI/UX Design
+**⚙️ Tools, OS & Infrastructure**<br>
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+**🎨 Concepts & Front-End**<br>
+![HTML5/CSS3](https://img.shields.io/badge/HTML5_/_CSS3-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-%23FF61F6.svg?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
 ### 🏆 Achievements & Projects
