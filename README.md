@@ -9,7 +9,6 @@ I am a results-driven Software Engineering student based in Prague. Having gradu
 * 🌍 **Origin:** Born in Baku, Azerbaijan 🇦🇿
 * 📍 **Current Location:** Living and studying in Prague, Czech Republic 🇨🇿
 * 🎓 **Education:** B.Sc. in Software Engineering at **Czech Technical University (CTU)**
-* 📜 **Certification:** IELTS 7.0
 * 🎯 **Mission:** "Turning complex logic into seamless digital experiences, one line of code at a time."
 
 ---
@@ -60,7 +59,7 @@ A multi-faceted skill set covering the entire stack, from hardware to the user i
 
 ### 📫 Let's Connect
 * 💼 **LinkedIn:** [Ariz Azadli](https://linkedin.com/in/arizazadli)
-* 🎮 **Hacking Portfolio:** [azadox.itch.io](https://azadox.itch.io/)
+* 🎮 **Project Portfolio:** [azadox.itch.io](https://azadox.itch.io/)
 * 📧 **Email:** [arizazadli20@gmail.com](mailto:arizazadli20@gmail.com)
 * 📸 **Instagram:** [@ariz.azadov](https://instagram.com/ariz.azadov)
 * 🎥 **YouTube:** [@ariz.azadov22](https://youtube.com/@ariz.azadov22)
