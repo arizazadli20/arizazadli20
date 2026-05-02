@@ -74,3 +74,9 @@ A multi-faceted skill set covering the entire stack, from hardware to the user i
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arizazadli20&theme=dark" alt="Github Trophies" />
 </p>
+
+
+<!-- Zugzwang Chess Stats -->
+<a href="http://localhost:5173">
+  <img src="http://localhost:5173/api/github-widget?username=azadlari" alt="azadlari's Zugzwang Chess Stats" />
+</a>
