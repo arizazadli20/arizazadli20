@@ -2,23 +2,23 @@
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Systems+%26+Software+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python;600%2B+Contributions+and+Counting!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ariz+Azadli+%F0%9F%91%8B;Software+%26+Backend+Engineer;AI%2FML+Integration+%26+Systems+Programming;IT+Student+%40+%C4%8CVUT+in+Prague" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <i>Building reliable systems, optimizing performance, and solving complex algorithmic problems.</i>
+    <i>Curious engineer building reliable software, scalable backend services, and low-level systems.</i>
   </p>
 
-  <!-- Social / Contact Badges (Replace links & handles with yours) -->
+  <!-- Social / Contact Badges -->
   <p align="center">
+    <a href="https://ariz.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-ariz.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://linkedin.com/in/your-username" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:your.email@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://your-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
@@ -28,49 +28,59 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently focused on **Systems Programming**, **Data Structures & Algorithms**, and cloud workflows[cite: 1].
-- 🌱 Constantly refining code quality through rigorous **Testing** and **Debugging**[cite: 1].
-- ⚡ Consistent open-source and personal project contributor (**600+ contributions** in the past year)[cite: 1].
-- 💬 Feel free to reach out in **English**, **Azerbaijani**, **Turkish**, or **Russian**[cite: 1]!
+I am a curious engineer who enjoys building reliable software. Currently studying **Information Technology (Software Engineering) at ČVUT (Czech Technical University) in Prague**, my focus spans **backend engineering**, **AI/ML integration**, and **systems programming**. My recent work involves architecting backend services and REST APIs for AI models on **AWS** and **GCP**, alongside building open-source CLI utilities and high-concurrency web applications.
+
+- 🎓 **Education:** B.Sc. in Software Engineering @ **ČVUT FIT** (Prague, Czech Republic)
+- 💼 **Recent Experience:** Backend AI Engineer Intern — built cloud-native ML inference pipelines, REST APIs, and latency optimizations on **AWS** & **GCP**
+- 🏆 **Achievements:** 1st Place Winner @ **VISTAR AI & Aerospace Challenge** (*Project SeaSentry*)
+- 💬 **Languages:** English (C1), Azerbaijani (Native), Turkish (C2), Russian (A1)
 
 ---
 
-### 🛠️ Tech Stack & Core Competencies
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[SeaSentry](https://github.com/YOUR_GITHUB_USERNAME)** | Automated marine monitoring system integrating Sentinel-1 SAR satellite imagery, AIS vessel data, and ML models to detect oil spills. | `Python` `ML/AI` `AWS` `Docker` |
+| **[SmartCommit](https://github.com/YOUR_GITHUB_USERNAME)** | Open-source Python CLI automation tool powered by the Google Gemini API that analyzes local repository diffs to generate conventional Git commits. | `Python` `Gemini API` `Git` `CLI` |
+| **[rot.bio](https://rot.bio)** | High-concurrency link aggregator and developer portfolio platform engineered for fast request routing. | `FastAPI` `PostgreSQL` `Docker` |
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 #### **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### **Tools & Cloud**
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### **Backend, Databases & AI/ML**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### **Cloud, DevOps & Systems**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20UNIX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
 
-#### **Core Concepts**
-`Data Structures & Algorithms` • `Systems Programming` • `Software Testing` • `Debugging`[cite: 1]
-
----
-
-### 🌍 Spoken Languages
-
-| Language | Proficiency |
-| :--- | :--- |
-| 🇦🇿 **Azerbaijani** | Native[cite: 1] |
-| 🇹🇷 **Turkish** | C2 (Proficient)[cite: 1] |
-| 🇬🇧 **English** | C1 (Advanced)[cite: 1] |
-| 🇷🇺 **Russian** | A1 (Elementary)[cite: 1] |
+#### **Core Engineering Competencies**
+`Backend Architecture` • `REST APIs` • `AI/ML Model Integration` • `Systems Programming` • `Data Structures & Algorithms` • `ETL Data Pipelines` • `Relational Databases` • `Memory Management` • `Testing & Debugging`
 
 ---
 
 ### 📊 GitHub Analytics
-
-> **Note:** Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub handle to render your live stats automatically.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
