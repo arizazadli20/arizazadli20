@@ -1,93 +1,94 @@
 <div align="center">
 
-# Hi, I'm Ariz Azadli 👋
+  <!-- Banner Image (Upload your Batman image to your profile repo root as banner.jpg) -->
+  <img src="./banner.jpg" alt="Banner" width="100%" style="max-height: 260px; object-fit: cover; border-radius: 10px;" />
 
-**Backend & Systems Engineer • IT Student @ ČVUT in Prague**
+  <br /><br />
 
-*Building reliable software, cloud AI services, and low-level systems.*
-
-<p>
-  <a href="https://ariz.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ariz.dev-161B22?style=flat-square&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-161B22?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email" />
-  </a>
-</p>
+  <h1>Hi 👋, I'm Ariz Azadli</h1>
+  <h3>Backend & Systems Engineer</h3>
+  <p><i>Building reliable backend systems, cloud AI services, and low-level software.</i></p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
+  <h3>🚀 About Me</h3>
+</div>
 
-I am a curious engineer who enjoys building reliable software. Currently studying **Information Technology (Software Engineering) at ČVUT (Czech Technical University) in Prague**, my focus spans **backend engineering**, **AI/ML integration**, and **systems programming**. My recent work involves architecting backend services and REST APIs for AI models on **AWS** and **GCP**, alongside building open-source CLI utilities and high-concurrency web applications.
-
-- 🎓 **Education:** B.Sc. in Software Engineering @ **ČVUT FIT** (Prague, Czech Republic)
-- 💼 **Recent Experience:** Backend AI Engineer Intern — built cloud-native ML inference pipelines, REST APIs, and latency optimizations on **AWS** & **GCP**
-- 🏆 **Achievements:** 1st Place Winner @ **VISTAR AI & Aerospace Challenge** (*Project SeaSentry*)
-- 💬 **Languages:** English (C1), Azerbaijani (Native), Turkish (C2), Russian (A1)
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p><b>Ariz, Here</b> — an Information Technology (Software Engineering) student at <b>ČVUT in Prague</b> focused on backend engineering, AI/ML integration, and systems programming.</p>
+      <p>I enjoy building scalable, production-ready APIs and low-level tools. My recent work involved architecting backend services for AI models on <b>AWS</b> and <b>GCP</b>, optimizing API request latency, and building automated data pipelines.</p>
+      <p>Currently working with <b>C, C++, Python, FastAPI, PostgreSQL, Docker, and Linux</b> while sharpening my problem-solving skills through Data Structures & Algorithms.</p>
+      <p>My goal is simple: write clean code, build reliable software, and create systems that last.</p>
+      <p>🗣️ <b>Languages:</b> English (C1) • Azerbaijani (Native) • Turkish (C2) • Russian (A1)</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
+<div align="center">
+  <h3>🛠️ Featured Projects</h3>
+</div>
 
-| Project | Description | Tech Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[SeaSentry]([https://github.com/YOUR_GITHUB_USERNAME](https://seasentry.space/))** | Automated marine monitoring system integrating Sentinel-1 SAR satellite imagery, AIS vessel data, and ML models to detect oil spills. | `Python` `ML/AI` `AWS` `Docker` |
-| **[SmartCommit]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/arizazadli20/smartcommit))** | Open-source Python CLI automation tool powered by the Google Gemini API that analyzes local repository diffs to generate conventional Git commits. | `Python` `Gemini API` `Git` `CLI` |
-| **[rot.bio]([https://rot.bio](https://rot-beige.vercel.app/))** | High-concurrency link aggregator and developer portfolio platform engineered for fast request routing. | `FastAPI` `PostgreSQL` `Docker` |
+| **[SeaSentry](https://github.com/YOUR_GITHUB_USERNAME)** | Automated marine monitoring system integrating Sentinel-1 SAR satellite imagery, AIS vessel data, and ML models to detect oil spills *(1st Place — VISTAR AI & Aerospace Challenge)*. | `Python` `ML/AI` `AWS` `Docker` |
+| **[SmartCommit](https://github.com/YOUR_GITHUB_USERNAME)** | Open-source Python CLI automation tool powered by the Google Gemini API that analyzes local repository diffs to generate conventional Git commits. | `Python` `Gemini API` `Git` `CLI` |
+| **[rot.bio](https://rot.bio)** | High-concurrency link aggregator and developer portfolio platform engineered for fast request routing. | `FastAPI` `PostgreSQL` `Docker` |
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-#### **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### **Backend, Databases & AI/ML**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### **Cloud, DevOps & Systems**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20%2F%20UNIX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
-
-#### **Core Engineering Competencies**
-`Backend Architecture` • `REST APIs` • `AI/ML Model Integration` • `Systems Programming` • `Data Structures & Algorithms` • `ETL Data Pipelines` • `Relational Databases` • `Memory Management` • `Testing & Debugging`
-
----
-
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arizazadli20&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=false&border_color=30363D&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=arizazadli20&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="GitHub Streak" />
+  <h3>🤝 Connect</h3>
+  <p>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/your-username" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:your.email@example.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://ariz.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vercel" height="42" alt="Portfolio" />
+    </a>
+  </p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <h3>💻 Tech Stack</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,postgres,sqlite,bash,fastapi,aws,gcp,azure,docker,linux,git,github,githubactions,supabase&perline=9" alt="Tech Stack" />
+  </p>
+  <p>
+    <code>Backend Architecture</code> • <code>REST APIs</code> • <code>AI/ML Integration</code> • <code>Systems Programming</code> • <code>Data Structures & Algorithms</code> • <code>ETL Pipelines</code> • <code>Testing & Debugging</code>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=0D1117&border=30363D&stroke=30363D&ring=8B949E&fire=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&border_radius=8" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>📈 Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=false&border_color=30363D&radius=8&custom_title=Ariz's%20Contribution%20Graph" alt="Activity Graph" />
 </div>
