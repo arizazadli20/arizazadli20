@@ -79,11 +79,11 @@ I am a curious engineer who enjoys building reliable software. Currently studyin
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=false&border_color=30363D&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arizazadli20&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=false&border_color=30363D&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=arizazadli20&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="GitHub Streak" />
 </div>
 
 ---
