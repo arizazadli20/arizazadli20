@@ -79,12 +79,7 @@ I am a curious engineer who enjoys building reliable software. Currently studyin
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="GitHub Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=false&border_color=30363D&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <div align="center">
