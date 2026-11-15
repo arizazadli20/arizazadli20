@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Banner Image (Upload your Batman image to your profile repo root as banner.jpg) -->
+  <!-- Banner Image (Make sure banner.jpg is uploaded to the root of github.com/arizazadli20/arizazadli20) -->
   <img src="./banner.jpg" alt="Banner" width="100%" style="max-height: 260px; object-fit: cover; border-radius: 10px;" />
 
   <br /><br />
@@ -40,8 +40,8 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[SeaSentry](https://github.com/YOUR_GITHUB_USERNAME)** | Automated marine monitoring system integrating Sentinel-1 SAR satellite imagery, AIS vessel data, and ML models to detect oil spills *(1st Place — VISTAR AI & Aerospace Challenge)*. | `Python` `ML/AI` `AWS` `Docker` |
-| **[SmartCommit](https://github.com/YOUR_GITHUB_USERNAME)** | Open-source Python CLI automation tool powered by the Google Gemini API that analyzes local repository diffs to generate conventional Git commits. | `Python` `Gemini API` `Git` `CLI` |
+| **[SeaSentry](https://github.com/arizazadli20)** | Automated marine monitoring system integrating Sentinel-1 SAR satellite imagery, AIS vessel data, and ML models to detect oil spills *(1st Place — VISTAR AI & Aerospace Challenge)*. | `Python` `ML/AI` `AWS` `Docker` |
+| **[SmartCommit](https://github.com/arizazadli20)** | Open-source Python CLI automation tool powered by the Google Gemini API that analyzes local repository diffs to generate conventional Git commits. | `Python` `Gemini API` `Git` `CLI` |
 | **[rot.bio](https://rot.bio)** | High-concurrency link aggregator and developer portfolio platform engineered for fast request routing. | `FastAPI` `PostgreSQL` `Docker` |
 
 ---
@@ -49,7 +49,7 @@
 <div align="center">
   <h3>🤝 Connect</h3>
   <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <a href="https://github.com/arizazadli20" target="_blank">
       <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
     </a>
     &nbsp;&nbsp;
@@ -83,12 +83,12 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=0D1117&border=30363D&stroke=30363D&ring=8B949E&fire=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&border_radius=8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=arizazadli20&background=0D1117&border=30363D&stroke=30363D&ring=8B949E&fire=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&border_radius=8" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
   <h3>📈 Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=false&border_color=30363D&radius=8&custom_title=Ariz's%20Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arizazadli20&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=false&border_color=30363D&radius=8&custom_title=Ariz's%20Contribution%20Graph" alt="Activity Graph" />
 </div>
