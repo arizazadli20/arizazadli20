@@ -52,17 +52,14 @@
       <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/your-username" target="_blank">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/ariz-azadli/)" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:arizazadli20@example.com">
       <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://ariz.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vercel" height="42" alt="Portfolio" />
-    </a>
+  
   </p>
 </div>
 
