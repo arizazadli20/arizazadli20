@@ -27,7 +27,7 @@
       <p>🗣️ <b>Languages:</b> English (C1) • Azerbaijani (Native) • Turkish (C2) • Russian (A1)</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF" style="border-radius: 8px;" />
+      <img src="Working Iron Man GIF.gif" width="230" alt="Coding GIF" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
