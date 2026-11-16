@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Image (Make sure banner.jpg is uploaded to the root of github.com/arizazadli20/arizazadli20) -->
-  <img src="ad.jpg" alt="Banner" width="100%" style="max-height: 260px; object-fit: cover; border-radius: 10px;" />
+  <img src="ab.jpg" alt="Banner" width="100%" style="max-height: 260px; object-fit: cover; border-radius: 10px;" />
 
   <br /><br />
 
