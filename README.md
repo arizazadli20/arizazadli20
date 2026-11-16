@@ -26,7 +26,7 @@
       <p>🗣️ <b>Languages:</b> English (C1) • Azerbaijani (Native) • Turkish (C2) • Russian (A1)</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="The Bat Signal GIF by Coheed and Cambria.gif" width="230" alt="Coding GIF" style="border-radius: 8px;" />
+      <img src="Robert Pattinson Penguin GIF by Grillax®.gif" width="230" alt="Coding GIF" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
