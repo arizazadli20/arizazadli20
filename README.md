@@ -5,7 +5,7 @@
 
   <br /><br />
 
- <h1>Hi, I'm Ariz Azadli 👋</h1>
+ <h1>I'm Ariz Azadli </h1>
   <h3>Software Engineer & Entrepreneur</h3>
   <p><i>Building scalable systems, AI-powered products, and software that matters.</i></p>
 </div>
