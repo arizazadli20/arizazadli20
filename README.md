@@ -41,8 +41,8 @@
 | :--- | :--- | :--- |
 | **[SeaSentry](https://seasentry.space)** | Automated marine monitoring system integrating Sentinel-1 SAR satellite imagery, AIS vessel data, and ML models to detect oil spills *(1st Place — VISTAR AI & Aerospace Challenge)*. | `Python` `ML/AI` `AWS` `Docker` |
 | **[SmartCommit](https://github.com/arizazadli20/smartcommit)** | Open-source Python CLI automation tool powered by the Google Gemini API that analyzes local repository diffs to generate conventional Git commits. | `Python` `Gemini API` `Git` `CLI` |
+| **[oops](https://github.com/arizazadli20/oops)** | Instant AI-powered terminal crash explainer and fix generator supporting pipe, wrapper, and shell history modes via the Google Gemini API. | `Python` `Gemini API` `Typer` `CLI` |
 | **[rot.bio](https://rot-beige.vercel.app/)** | High-concurrency link aggregator and developer portfolio platform engineered for fast request routing. | `FastAPI` `PostgreSQL` `Docker` |
-
 ---
 
 <div align="center">
